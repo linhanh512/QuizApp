@@ -25,10 +25,10 @@ What is your favorite food?<br>
 
 <section id='q02'>Question 2:
 What is your favorite food?<br>
-   <input name='answerq2' type='radio' id='a02' value='A'><label for='Apple'>A. Apple</label></br>
-   <input name='answerq2' type='radio' id='b02' value='B'><label for='Bread'>B. Bread</label></br>
-   <input name='answerq2' type='radio' id='c02' value='C'><label for='Cheese'>C. Cheese</label></br>
-   <input name='answerq2' type='radio' id='d02' value='D'><label for='Pizza'>D. Pizza</label></br>
+   <input name='answerq2' type='radio' id='a02' value='A'><label for='Apple'>A. Apple</label>
+   <input name='answerq2' type='radio' id='b02' value='B'><label for='Bread'>B. Bread</label>
+   <input name='answerq2' type='radio' id='c02' value='C'><label for='Cheese'>C. Cheese</label>
+   <input name='answerq2' type='radio' id='d02' value='D'><label for='Pizza'>D. Pizza</label>
 </section>
 <br></br>
 
